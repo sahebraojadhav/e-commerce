@@ -38,13 +38,3 @@
    transition: box-shadow 0.15s linear 0s;
 }
 
-@keyframes card-hover {
-    form{
-        box-shadow: 4px 4px 2px var(--mid-gray);
-    }
-
-    to{
-        box-shadow: 0px 0px;
-    }
-    
-}
